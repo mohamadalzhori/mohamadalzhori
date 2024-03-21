@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **Summer Software Internships**
 
-- 👨‍💻 Checkout my Portfolio [mohamadalzhori.github.io](mohamadalzhori.github.io)
+- 👨‍💻 Checkout my Portfolio [mohamadalzhori.github.io](https://mohamadalzhori.github.io/)
 
 - 📫 How to reach me **mohamadalzhori01@gmail.com**
 
