@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohamadalzhori01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14iXszpdauU2t-OfIGUBIJk_-CPxY0fii/view?usp=sharing](https://drive.google.com/file/d/14iXszpdauU2t-OfIGUBIJk_-CPxY0fii/view?usp=sharing)
+- 📄 Know about my experiences [MyCV](https://drive.google.com/file/d/14iXszpdauU2t-OfIGUBIJk_-CPxY0fii/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
