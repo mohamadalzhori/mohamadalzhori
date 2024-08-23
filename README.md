@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Mohamad Alzhori, aka Zhori ⚡</h1>
+<h1 align="center">Hallo 👋, I'm Mohamad Alzhori, aka Zhori ⚡</h1>
 <h3 align="center">A Passionate Engineering Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadalzhori&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadalzhori" /> </p>
