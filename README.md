@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadalzhori&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadalzhori" /> </p>
 
-- 🔭 I’m currently looking for **Summer Software Internships**
+- 🔭 **Seeking Full-Time Software Developer Roles (Preference for .NET)**
 
-- 👨‍💻 Checkout my Portfolio [mohamadalzhori.github.io](https://mohamadalzhori.github.io/)
+- 👨‍💻 Checkout my Portfolio [mohamadalzhori.is-a.dev](https://mohamadalzhori.is-a.dev/)
 
 - 📫 How to reach me **mohamadalzhori01@gmail.com**
 
