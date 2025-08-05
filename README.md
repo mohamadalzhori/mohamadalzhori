@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, I'm Mohamad Alzhori, aka Zhori ⚡</h1>
-<h3 align="center">A Passionate Engineering Student </h3>
+<h3 align="center">Software Engineer | .NET Backend Focus | Agentic AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadalzhori&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadalzhori" /> </p>
 
@@ -8,8 +8,6 @@
 - 👨‍💻 Checkout my Portfolio [mohamadalzhori.is-a.dev](https://mohamadalzhori.is-a.dev/)
 
 - 📫 How to reach me **mohamadalzhori01@gmail.com**
-
-- 📄 Know about my experiences [MyCV](https://drive.google.com/file/d/1a5h_6Y25GgMMQFqNpbLMvtdEFLkEbczP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
